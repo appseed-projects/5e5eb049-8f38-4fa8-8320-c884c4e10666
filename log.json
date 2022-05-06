@@ -1,0 +1,22 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "adminlte",
+    "docker": "0",
+    "frontend": "",
+    "github_repo": "https://github.com/appseed-projects/5e5eb049-8f38-4fa8-8320-c884c4e10666",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "5e5eb049-8f38-4fa8-8320-c884c4e10666",
+    "task_info": "Upload Sources [0%] - 1994 files",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-05-06-11-30-16",
+    "task_ts_start": "2022-05-06-11-30-14"
+}
